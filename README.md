@@ -1,5 +1,9 @@
 ## Hi there! My name is Pavel 👋
 
+I’m backend developer from Saint-Petersburg/
+
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: https://t.me/pavel_pentiuk
 <!--
 **PentiukPavel/PentiukPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
