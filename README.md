@@ -13,4 +13,4 @@ I’m Python developer from Saint-Petersburg.
 
 
 ## My contacts:
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/pavel_pentiuk
+<a href="https://t.me/pavel_pentiuk" target="_blank"> <img src="./assets/-Telegram-blue.svg" alt="Telegram" width="150" height="40" title="Telegram"/> </a>
